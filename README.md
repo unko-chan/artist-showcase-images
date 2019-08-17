@@ -1,5 +1,5 @@
 # doteos-artist-showcase
-A collection of designs by upcoming artists, showcased in Doteos. All designs posted in this repo are licensed under CC BY 4.0 by their respective creators.
+A collection of designs by local artists, showcased in Doteos. All designs posted in this repo are licensed under CC BY 4.0 by their respective creators.
 
 Attribution 4.0 International
 
