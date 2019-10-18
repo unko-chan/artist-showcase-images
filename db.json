@@ -21,6 +21,17 @@
       ],
       "link": "https://adin.dev/",
       "name": "Adin Kwok"
+    },
+    {
+      "folder": "jessicadr",
+      "portfolio": [
+        {
+          "name": "Yoyo",
+          "filename": "yoyo.png"
+        }
+      ],
+      "link": "https://jessicadr.github.io/",
+      "name": "Jessica Del Rosario"
     }
   ]
 }
