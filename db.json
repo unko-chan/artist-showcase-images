@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "folder": "philmanyeung",
+      "folder": "philman_yeung",
       "portfolio": [
         {
           "name": "Seagull",
@@ -12,7 +12,7 @@
       "name": "Philman Yeung"
     },
     {
-      "folder": "adinkwok",
+      "folder": "adin_kwok",
       "portfolio": [
         {
           "name": "The Moosh",
@@ -23,7 +23,7 @@
       "name": "Adin Kwok"
     },
     {
-      "folder": "charmwong",
+      "folder": "charmain_wong",
       "portfolio": [
         {
           "name": "Star Nosed Mole",
@@ -34,19 +34,19 @@
       "name": "Charmain Wong"
     },
     {
-      "folder": "jessicadr",
+      "folder": "jessica_del_rosario",
       "portfolio": [
         {
           "name": "Wooloo",
-          "filename": "wooloo.jpg"
+          "filename": "Wooloo_by_Jessica_del_Rosario.jpg"
         },
         {
           "name": "Yoyo",
-          "filename": "yoyo.png"
+          "filename": "Yoyo_by_Jessica_del_Rosario.png"
         }
       ],
       "link": "https://jessicadr.github.io/",
-      "name": "Jessica Del Rosario"
+      "name": "Jessica del Rosario"
     }
   ]
 }
