@@ -55,6 +55,17 @@
       ],
       "link": "https://jessicadr.github.io/",
       "name": "Jessica del Rosario"
+    },
+    {
+      "folder": "saltyluzer",
+      "portfolio": [
+        {
+          "name": "Thoughts",
+          "filename": "Thoughts_by_SaltyLuzer.jpeg"
+        }
+      ],
+      "link": "https://www.instagram.com/saltyluzer/",
+      "name": "SaltyLuzer"
     }
   ]
 }
