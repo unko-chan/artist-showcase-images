@@ -74,6 +74,17 @@
       ],
       "link": "https://www.instagram.com/saltyluzer/",
       "name": "SaltyLuzer"
-    }
+    },
+    {
+      "folder": "unko-chan",
+      "portfolio": [
+        {
+          "name": "coverArt",
+          "filename": "coverArt_by_Kevin_Liang.png"
+        }
+      ],
+      "link": "https://www.instagram.com/kevkun/",
+      "name": "Kevin Liang"
+    },
   ]
 }
